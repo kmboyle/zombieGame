@@ -1,0 +1,22 @@
+{
+  "name": "zombies",
+  "version": "1.0.0",
+  "description": "",
+  "main": "zombiegame.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kmboyle/zombieGame.git"
+  },
+  "author": "Kevin Boyle",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kmboyle/zombieGame/issues"
+  },
+  "homepage": "https://github.com/kmboyle/zombieGame#readme",
+  "dependencies": {
+    "inquirer": "^3.2.2"
+  }
+}
